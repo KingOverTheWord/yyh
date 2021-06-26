@@ -11,6 +11,10 @@ package com.crcc.git;
 public class GitTeat {
     public static void main(String[] args) {
         System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
     }
 
 }
